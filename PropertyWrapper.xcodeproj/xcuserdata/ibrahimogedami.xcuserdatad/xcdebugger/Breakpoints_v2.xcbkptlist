@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2C368EEF-0316-482E-92F7-EF4E946E03A3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2C1C62F-F3EC-472F-9F5A-A02D48473E96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PropertyWrapper/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2C1C62F-F3EC-472F-9F5A-A02D48473E96 - 93544e29a5d31e20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyWrapper.ViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "PropertyWrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimogedami/Documents/iOS/PropertyWrapper/PropertyWrapper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "162">
+               </Location>
+               <Location
+                  uuid = "A2C1C62F-F3EC-472F-9F5A-A02D48473E96 - 93544e29a5d31e20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyWrapper.ViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "PropertyWrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimogedami/Documents/iOS/PropertyWrapper/PropertyWrapper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "235">
+               </Location>
+               <Location
+                  uuid = "A2C1C62F-F3EC-472F-9F5A-A02D48473E96 - 93544e29a5d31dbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyWrapper.ViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "PropertyWrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimogedami/Documents/iOS/PropertyWrapper/PropertyWrapper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "293">
+               </Location>
+               <Location
+                  uuid = "A2C1C62F-F3EC-472F-9F5A-A02D48473E96 - 93544e29a5d31dbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PropertyWrapper.ViewController.viewDidAppear(Swift.Bool) -&gt; ()"
+                  moduleName = "PropertyWrapper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ibrahimogedami/Documents/iOS/PropertyWrapper/PropertyWrapper/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "277">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
